@@ -1,7 +1,7 @@
 import 'package:boozin_fitness/routes/app_routes.dart' hide Routes;
 import 'package:get/get.dart';
 import '../modules/splash/splash_view.dart';
-import '../modules/splash/splash_binding.dart';
+import '../bindings/splash_binding.dart';
 import 'app_routes.dart';
 import '../views/home_view.dart';
 import '../bindings/home_binding.dart';
